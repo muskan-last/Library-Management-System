@@ -69,16 +69,7 @@ It provides basic functionalities to add, search, issue, and return books.
 
 ---
 
-### 📸 Screenshots
 
-*(Optional — add some screenshots of your console app here)*
-
-```markdown
-![Main Menu](images/main_menu.png)
-![Book List](images/book_list.png)
-```
-
----
 
 ### 📈 Future Enhancements
 
@@ -86,5 +77,6 @@ It provides basic functionalities to add, search, issue, and return books.
 * Add fine calculation for late returns
 * Improve data storage with database integration (MySQL/SQLite)
 * Build a GUI version using Qt or C++ graphics
+
 
 
