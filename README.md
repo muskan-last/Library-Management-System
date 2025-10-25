@@ -1,7 +1,4 @@
-Perfect 👍 — here’s a clean and professional **README.md** specifically written for your **C++ Library Management System**.
-You can copy and paste this directly into your GitHub repository and customize a few details (like your name, email, and screenshots if you have them).
 
----
 
 ## 📚 Library Management System (C++)
 
@@ -89,4 +86,5 @@ It provides basic functionalities to add, search, issue, and return books.
 * Add fine calculation for late returns
 * Improve data storage with database integration (MySQL/SQLite)
 * Build a GUI version using Qt or C++ graphics
+
 
